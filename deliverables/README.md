@@ -1,6 +1,6 @@
 # Preliminary imagery review deliverables
 
-These files are a preliminary technical review of two KML polygons and 14 Google Earth screen captures supplied for the Mahan area.
+These files are a preliminary technical review of two KML polygons and 14 Google Earth screen captures supplied for the Mahan area. The comprehensive report adds a screen-space comparison map of the earliest and latest frames and a qualitative scene-level change matrix.
 
 - The PDFs are **not a final signed expert opinion**. Image screenshots are not raw georeferenced rasters; no cadastral evidence, ground control, or field survey was supplied.
 - Dates in the inventory are the historical-view labels displayed in Google Earth. They were not independently verified as exact sensor acquisition dates.
